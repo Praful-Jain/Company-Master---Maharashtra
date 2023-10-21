@@ -2,7 +2,7 @@
 
 #### Install python on ubuntu
 #### Clone the repo using the following command
-    git clone git@github.com:shivapittala19/Company-Master.git
+    git clone git@github.com:Praful-Jain/Company-Master---Maharashtra
 #### Create a virtual environment 
     python3 -m venv name_of_evn 
 #### Activate the virtual environment
